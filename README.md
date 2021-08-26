@@ -1,5 +1,7 @@
 # Distributionplot
-it have following plot
+it have following plot  open in jupiter notebook 
+
+you have to download anaconda-navigator for that
 
 ## Distribution Plots
 
